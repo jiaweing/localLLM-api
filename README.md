@@ -1,3 +1,6 @@
+> [!WARNING]
+> **This repository is archived and no longer maintained.** It has been superseded by [layer0](https://github.com/amajorai/layer0) — a self-hostable RAG and long-term memory server with local LLM support, vector embeddings, and an OpenAI-compatible API. Use layer0 instead.
+
 # Local LLM API Server
 
 An API server that provides OpenAI-compatible endpoints for running GGUF models locally. Designed for easy integration with any system that supports OpenAI's API format.
